@@ -74,7 +74,6 @@ Overall, VCS notifications are indispensable for tracking progress, preventing e
 | Name| Email Address :mailbox:   |
 |-----|--------------------------|
 
-![pritam-image drawio (1)](https://github.com/user-attachments/assets/768c27cf-0b86-4421-9cd6-9bac598c741e)
 
 
 
