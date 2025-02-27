@@ -3,9 +3,7 @@
 
 | Created/Modified | Version | Author              | Comment         |  Reviewer     |
 |-------------------|---------|---------------------|-----------------|-----------------|
-| 11-11-2024        | V1      | Pratham Kukudkar | Initial Commit  |                 |
-| 15-11-2024        | V2      | Pratham Kukudkar | L0             |   Tapan              |
-| 15-11-2024        | V2      | Pratham Kukudkar | L1               |    Kirti    |
+
 ## Table of Contents
 
 - [Introduction](#introduction)     
@@ -75,7 +73,10 @@ Overall, VCS notifications are indispensable for tracking progress, preventing e
 
 | Name| Email Address :mailbox:   |
 |-----|--------------------------|
-| Pratham Kukudkar |pratham.kukudkar.snaatak@mygurukulam.co | 
+
+![pritam-image drawio (1)](https://github.com/user-attachments/assets/768c27cf-0b86-4421-9cd6-9bac598c741e)
+
+
 
 
 
